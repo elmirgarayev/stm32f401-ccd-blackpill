@@ -1,0 +1,20 @@
+# build folders
+Debug/
+Release/
+build/
+
+# compiled files
+*.o
+*.d
+*.elf
+*.map
+*.list
+*.su
+
+# IDE
+.settings/
+*.launch
+
+# OS
+.DS_Store
+Thumbs.db
